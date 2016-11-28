@@ -1,0 +1,10 @@
+lib
+*.jar
+target
+classes
+*.class
+.settings
+.classpath
+.project
+bin
+.bak
